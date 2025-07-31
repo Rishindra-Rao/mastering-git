@@ -12,3 +12,4 @@
 ## git branch <branch-name> -> Create new branch
 ## git checkout <branch-name> -> head goes to new-branch
 ## git checkout -b <branch-name> -> Create and move to new-branch
+## git push --set-upstram origin <branch name> -> Push the new-branch
