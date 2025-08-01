@@ -14,6 +14,7 @@
 ## git checkout -b <branch-name> -> Create and move to new-branch
 ## git remote add origin <link of the repo provided by github> -> now you can push to your remote repo
 ## git push --set-upstream origin <branch name> -> Push the new-branch
+## git push -u origin <branch name> -> command to push repo
 ## git branch <new-branch> <source-branch> -> Create new branch from source branch
 ## git pull -> Brings changes from remote to local
 ## git merge -> Merges branch to your current directory
