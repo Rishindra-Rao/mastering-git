@@ -16,3 +16,4 @@
 ## git branch <new-branch> <source-branch> -> Create new branch from source branch
 ## git pull -> Brings changes from remote to local
 ## git merge <branch name> -> Merges branch to your current directory
+## git faltu
