@@ -2,7 +2,7 @@
 
 ## git init
 ## git status
-## git add <filename.extension>
+## git add <filename.extension> -> To track the file created or changed
 ## git commit -m "<message>"
 ## git add ./ -> for all files in the directory
 ## git checkout <hashcode of previous commit> -> detached head state but nothing is deleted
@@ -13,3 +13,4 @@
 ## git checkout <branch-name> -> head goes to new-branch
 ## git checkout -b <branch-name> -> Create and move to new-branch
 ## git push --set-upstream origin <branch name> -> Push the new-branch
+## git branch <new-branch> <source-branch> -> Create new branch from source branch
