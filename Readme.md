@@ -14,3 +14,5 @@
 ## git checkout -b <branch-name> -> Create and move to new-branch
 ## git push --set-upstream origin <branch name> -> Push the new-branch
 ## git branch <new-branch> <source-branch> -> Create new branch from source branch
+## git pull -> Brings changes from remote to local
+## git merge -> Merges branch to your current directory
